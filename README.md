@@ -11,11 +11,6 @@ Urban Flood Risk Data: Global City Analysis 2025
 Source:
 https://www.kaggle.com/datasets/pratyushpuri/urban-flood-risk-data-global-city-analysis-2025
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-
 ## Objectives
 
 - Predict urban flood risk
